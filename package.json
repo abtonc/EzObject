@@ -1,5 +1,5 @@
 {
-  "name": "ezobjects",
+  "name": "ezobject",
   "version": "1.0.0",
   "description": "Object library that works with EzVector",
   "main": "lib/index.js",
@@ -10,7 +10,7 @@
   },
   "keywords": [
     "ezvector",
-    "ezobjects",
+    "ezobject",
     "3d",
     "2d",
     "object"

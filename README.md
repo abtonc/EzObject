@@ -1,25 +1,25 @@
-# EzObjects
+# EzObject
 
-EzObjects is Object management library.
+EzObject is Object library for my next project: EzEngine.
 
 ## Installation
 
-You can use [npm](https://www.npmjs.com/get-npm) to install EzObjects.
+You can use [npm](https://www.npmjs.com/get-npm) to install EzObject.
 
 ```bash
-npm i ezobjects
+npm i ezobject
 ```
 
 or
 
 ```bash
-npm install ezobjects
+npm install ezobject
 ```
 
 ## Contributing
 
-[GitHub - EzVector](https://github.com/abtonc/EzObjects)
+[GitHub - EzVector](https://github.com/abtonc/EzObject)
 
 ## License
 
-[MIT](https://github.com/abtonc/EzObjects/blob/master/LICENSE)
+[MIT](https://github.com/abtonc/EzObject/blob/master/LICENSE)
