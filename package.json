@@ -1,0 +1,27 @@
+{
+  "name": "ezobjects",
+  "version": "1.0.0",
+  "description": "Object library that works with EzVector",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "start": "node lib/index.js",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "ezvector",
+    "ezobjects",
+    "3d",
+    "2d",
+    "object"
+  ],
+  "author": "abtonc",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "ezvector": "^1.1.2"
+  }
+}
