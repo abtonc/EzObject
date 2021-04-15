@@ -13,7 +13,7 @@ jobs:
         with:
           node-version: 12
       - run: npm i
-      - run: npm build
+      - run: npm start build
 
   publish-npm:
     needs: build
