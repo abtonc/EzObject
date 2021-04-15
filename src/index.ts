@@ -1,5 +1,10 @@
 import { Vector3 } from 'ezvector';
 
+interface IComponent {
+  start(): void;
+  update(): void;
+}
+
 export class Mesh {
   vertices: Array<Vector3>;
   triangles: Array<number>;
@@ -52,12 +57,7 @@ export class Transform {
   }
 }
 
-interface IComponent {
-  start(): void;
-  update(): void;
-}
-
-export class Object {
+export class EzObject {
   mesh: Mesh;
   material: Material;
   transform: Transform;

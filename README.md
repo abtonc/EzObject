@@ -18,7 +18,7 @@ npm install ezobject
 
 ## Contributing
 
-[GitHub - EzVector](https://github.com/abtonc/EzObject)
+[GitHub - EzObject](https://github.com/abtonc/EzObject)
 
 ## License
 
